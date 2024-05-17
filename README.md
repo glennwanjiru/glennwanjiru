@@ -1,6 +1,11 @@
 # Hi🖐...Am Glenn Njoroge
 ## 💫 About Me:
-🔭 I’m currently working on Jumpy(mobile game)<br><br>🌱 I’m currently learning ROS2,Flutter,Arduino<br><br>👨‍💻 All of my projects are available at https://github.com/glennwanjiru<br><br>💬 Ask me about Unity,Python,Blender,Machine Learning ,Arduino,ROS2,Robotics<br><br>📄 Know about my experiences https://glennnjoroge.streamlit.app/<br><br>⚡ Fun fact Am addicted to imposter syndrome
+🔭 I’m currently working on Autonomous Robot<be>
+<br>🌱 I’m currently learning ROS2,Flutter,Arduino<be>
+<br>👨‍💻 Some of my projects are available at https://glennnjoroge.itch.io/<br>
+<br>💬 Ask me about AR,Unity,Python,Blender,Machine Learning ,Arduino,ROS2,Robotics<be>
+<br>📄 Know about my experiences https://glennnjoroge.streamlit.app/<br>
+<br>⚡ Fun fact Am addicted to imposter syndrome
 
 
 ## 🌐 Socials:
