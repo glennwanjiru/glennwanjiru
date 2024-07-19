@@ -1,38 +1,118 @@
-# Hi🖐...Am Glenn Njoroge
-## 💫 About Me:
-🔭 I’m currently working on Autonomous Robot<be>
-<br>🌱 I’m currently learning ROS2,Flutter,Arduino<be>
-<br>👨‍💻 Some of my projects are available at https://glennnjoroge.itch.io/<br>
-<br>💬 Ask me about AR,Unity,Python,Blender,Machine Learning ,Arduino,ROS2,Robotics<be>
-<br>📄 Know about my experiences https://glennnjoroge.streamlit.app/<br>
-<br>⚡ Fun fact Am Batman🦸‍♂️
+<!-- Header -->
+<h1 align="center" style="color: #4A90E2;">Hi there, I'm Glenn Njoroge! 👋</h1>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/glennnjoroge) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stainedcoffeecup17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glenn-wanjiru-10213b24a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/glennnjoroge) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Professional_Map_418) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@stainedcoffeecup17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Glennnjoroge) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@stainedcoffeecup?si=Ql4JmS_rJ8BBlssQ) 
+<!-- About Me Section -->
+<h2 align="center" style="color: #4A90E2;">🎓 About Me</h2>
+<p align="center" style="font-size: 18px; color: #333;">
+  I'm a multi-talented professional skilled in:
+</p>
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding: 0 15px;">
+        <ul>
+          <li><strong>Machine Learning</strong> 🤖</li>
+          <li><strong>3D Modeling and Animation</strong> 🎨</li>
+        </ul>
+      </td>
+      <td style="padding: 0 15px;">
+        <ul>
+          <li><strong>Game Development in Unity</strong> 🎮</li>
+          <li><strong>Robotics and Arduino</strong> 🤖</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+<p align="center" style="font-size: 18px; color: #333;">
+  Currently pursuing a Bachelor's degree in Computer Science at <strong>Kabarak University</strong> 🎓
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glennwanjiru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=3600)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=glennwanjiru&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glennwanjiru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Skills Section -->
+<h2 align="center" style="color: #4A90E2;">🛠️ My Skills</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding: 0 15px;">
+        <h4>Programming Languages</h4>
+        <ul>
+          <li>Python 🐍</li>
+          <li>C# 💻</li>
+          <li>C/C++ 🔧</li>
+          <li>Dart 🎯</li>
+        </ul>
+      </td>
+      <td style="padding: 0 15px;">
+        <h4>Tools and Technologies</h4>
+        <ul>
+          <li>Blender 🎨</li>
+          <li>Unity 🎮</li>
+          <li>Flutter 📱</li>
+          <li>Arduino 🤖</li>
+          <li>Firebase 🔥</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<!-- Projects Section -->
+<h2 align="center" style="color: #4A90E2;">📂 Projects</h2>
+<p align="center" style="font-size: 18px; color: #333;">
+  Check out some of my projects:
+</p>
+<div align="center">
+  <a href="https://glennnjoroge.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-%23000000.svg?&style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io">
+  </a>
+  <a href="https://github.com/glennwanjiru">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=glennwanjiru&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Contact Section -->
+<h2 align="center" style="color: #4A90E2;">📫 Get in Touch</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/glennnjoroge">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/glennnjoroge">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://github.com/glennwanjiru">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.youtube.com/channel/UCXXXXXX">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Extras Section -->
+<h2 align="center" style="color: #4A90E2;">✨ Extras</h2>
+<p align="center" style="font-size: 18px; color: #333;">
+  I'm actively involved in:
+</p>
+<div align="center">
+  <ul>
+    <li><strong>Machine Learning bootcamps</strong> 📚</li>
+    <li><strong>Google DSC</strong> 💡</li>
+  </ul>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=glennwanjiru&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- GitHub Stats -->
+<h2 align="center" style="color: #4A90E2;">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glennwanjiru&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=glennwanjiru&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glennwanjiru&theme=radical" alt="GitHub Streak">
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language/?username=glennwanjiru&theme=radical" alt="Repos per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language/?username=glennwanjiru&theme=radical" alt="Most Commit Language">
+</div>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/stainedcoffeecup) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Footer -->
+<p align="center" style="font-size: 18px; color: #4A90E2;">
+  🎉 Thank you for visiting my profile! 🎉
+</p>
