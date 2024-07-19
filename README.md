@@ -96,7 +96,7 @@
 <div align="center">
   <ul>
     <li><strong>Machine Learning(Reinforcement learning</strong> 📚</li>
-    <li><strong>Game Deveolopment</strong> 💡</li>
+    <li><strong>Game Development</strong> 💡</li>
   </ul>
 </div>
 
