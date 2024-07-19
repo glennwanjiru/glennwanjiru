@@ -95,8 +95,8 @@
 </p>
 <div align="center">
   <ul>
-    <li><strong>Machine Learning bootcamps</strong> 📚</li>
-    <li><strong>Google DSC</strong> 💡</li>
+    <li><strong>Machine Learning(Reinforcement learning</strong> 📚</li>
+    <li><strong>Game Deveolopment</strong> 💡</li>
   </ul>
 </div>
 
