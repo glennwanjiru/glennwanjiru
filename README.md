@@ -5,7 +5,7 @@
 <br>👨‍💻 Some of my projects are available at https://glennnjoroge.itch.io/<br>
 <br>💬 Ask me about AR,Unity,Python,Blender,Machine Learning ,Arduino,ROS2,Robotics<be>
 <br>📄 Know about my experiences https://glennnjoroge.streamlit.app/<br>
-<br>⚡ Fun fact Am addicted to imposter syndrome
+<br>⚡ Fun fact Am Batman🦸‍♂️
 
 
 ## 🌐 Socials:
