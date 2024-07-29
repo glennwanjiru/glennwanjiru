@@ -70,6 +70,13 @@
   </a>
 </div>
 
+<!-- Centered Image Section -->
+<div align="center" style="margin-bottom: 30px;">
+  <a href="https://app.daily.dev/glennwanjiru">
+    <img src="https://api.daily.dev/devcards/v2/McbHGTPCyfb6Nom6gmXtB.png?type=default&r=kwt" width="356" alt="StainedCoffeeCup's Dev Card"/>
+  </a>
+</div>
+
 <!-- Contact Section -->
 <h2 align="center" style="color: #4A90E2; font-family: 'Arial', sans-serif; font-size: 2em; margin-top: 20px;">📫 Get in Touch</h2>
 <p align="center" style="font-family: 'Arial', sans-serif; margin-bottom: 30px;">
