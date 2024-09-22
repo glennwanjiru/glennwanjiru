@@ -89,7 +89,7 @@
   <a href="https://github.com/glennwanjiru" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 10px;">
   </a>
-  <a href="https://www.youtube.com/channel/UCXXXXXX" style="text-decoration: none;">
+  <a href="https://www.youtube.com/@stainedcoffeecup" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin: 0 10px;">
   </a>
 </p>
