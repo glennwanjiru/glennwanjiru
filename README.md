@@ -1,5 +1,6 @@
 <!-- Header -->
 <h1 align="center" style="color: #4A90E2; font-family: 'Arial', sans-serif; font-size: 2.5em; margin-top: 20px;">Hi there, I'm Glenn Njoroge! 👋</h1>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/glennwanjiru/glennwanjiru/output/dist/github-contribution-grid-snake.svg)
 
 <!-- About Me Section -->
 <h2 align="center" style="color: #4A90E2; font-family: 'Arial', sans-serif; font-size: 2em; margin-top: 20px;">🎓 About Me</h2>
